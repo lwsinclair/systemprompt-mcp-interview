@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ejb503-systemprompt-mcp-interview-badge.png)](https://mseep.ai/app/ejb503-systemprompt-mcp-interview)
+
 # systemprompt-mcp-interview
 
 [![npm version](https://img.shields.io/npm/v/systemprompt-mcp-interview.svg)](https://www.npmjs.com/package/systemprompt-mcp-interview)
